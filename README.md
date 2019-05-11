@@ -15,4 +15,4 @@ descobre os resultados de modelos lineares entre duas variaveis.
 
 **Tabela ANOVA**
 
-**Representação da melhor Reta Minimos quadrados*
+**Representação da melhor Reta Minimos quadrados**
